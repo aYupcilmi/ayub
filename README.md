@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayub Mohamed</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate AI</h3>
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, FLUTTER**
 
